@@ -141,6 +141,8 @@ body {
   #about-image {
     /* Positioning */
     float: left;
+    position: relative;
+    left: 40px;
   
     /* Box-model */
     width: 200px;
